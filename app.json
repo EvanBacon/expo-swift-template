@@ -1,9 +1,9 @@
 {
-  "name": "HeyWorld",
-  "displayName": "HeyWorld",
+  "name": "HelloWorld",
+  "displayName": "HelloWorld",
   "expo": {
-    "name": "HeyWorld",
-    "slug": "HeyWorld",
+    "name": "HelloWorld",
+    "slug": "HelloWorld",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

@@ -1,4 +1,4 @@
-package com.heyworld.generated;
+package com.helloworld.generated;
 
 import java.util.Arrays;
 import java.util.List;
